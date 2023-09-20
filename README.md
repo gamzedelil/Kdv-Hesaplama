@@ -19,9 +19,13 @@ kdvTutar = tutar * kdvOran;
 kdvliTutar = tutar + kdvTutar;
 
 System.out.println("KDV'siz Tutar" + tutar);
+
 System.out.println("KDV Orani:" + kdvOran);
+
 System.out.println("KDV Tutari:" + kdvTutar);
+
 System.out.println("KDV'li Tutar:" +kdvliTutar);
+
 System.out.println(kdvliTutar);
 	
 	}
